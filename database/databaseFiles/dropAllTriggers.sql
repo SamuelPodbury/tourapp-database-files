@@ -1,0 +1,2 @@
+DROP TRIGGER IF EXISTS tourReviewTrigger;
+DROP TRIGGER IF EXISTS userReviewTrigger;
